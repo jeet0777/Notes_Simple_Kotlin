@@ -8,6 +8,13 @@ In order to schedule Our task we need some simple as well as Interactive Product
 This project proposes a “Simple Notes Making System” to keep track of Our daily task or And to Create a Notes where we can priortize our task where we can listout The name of the tasks which we are going to complete.
 This App provides A way to user to Create,Delete and update thier notes.
 App is not for just for those People who want to create their task this App is Specifically Designed for Student where students can take thier Lecture Notes Or where students can creates Their own notes 
+<div style="display:inline; margin:10px">
+<img src="https://firebasestorage.googleapis.com/v0/b/jeet-1a786.appspot.com/o/Screenshot_1641827974.png?alt=media&token=68cdf630-64eb-4e55-85af-cef578f4f7c0" width="200" height="400"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/jeet-1a786.appspot.com/o/Screenshot_1641821057.png?alt=media&token=7d212ead-c793-4ae7-8333-d308d0dcc3c4" width="200" height="400"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/jeet-1a786.appspot.com/o/Screenshot_1641828910.png?alt=media&token=7b11d05c-eacf-4f09-ac97-fe5acd743426" width="200" height="400"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/jeet-1a786.appspot.com/o/Screenshot_1641828297.png?alt=media&token=768ba13a-2053-43aa-be0a-630836a1237f" width="200" height="400"/></div>
+
+
 
 ### Functionality & Concepts used :
 
